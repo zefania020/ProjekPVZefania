@@ -1,0 +1,7 @@
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\AplikasiPetshop\AplikasiPetshop\bin\Debug\AplikasiPetshop.exe
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\AplikasiPetshop\AplikasiPetshop\bin\Debug\AplikasiPetshop.pdb
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\AplikasiPetshop\AplikasiPetshop\obj\Debug\AplikasiPetshop.csprojResolveAssemblyReference.cache
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\AplikasiPetshop\AplikasiPetshop\obj\Debug\AplikasiPetshop.MainForm.resources
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\AplikasiPetshop\AplikasiPetshop\obj\Debug\AplikasiPetshop.csproj.GenerateResource.Cache
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\AplikasiPetshop\AplikasiPetshop\obj\Debug\AplikasiPetshop.exe
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\AplikasiPetshop\AplikasiPetshop\obj\Debug\AplikasiPetshop.pdb
