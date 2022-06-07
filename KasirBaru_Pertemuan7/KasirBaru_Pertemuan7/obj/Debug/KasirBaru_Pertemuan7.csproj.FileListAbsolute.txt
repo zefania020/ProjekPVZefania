@@ -1,0 +1,7 @@
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\KasirBaru_Pertemuan7\KasirBaru_Pertemuan7\bin\Debug\KasirBaru_Pertemuan7.exe
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\KasirBaru_Pertemuan7\KasirBaru_Pertemuan7\bin\Debug\KasirBaru_Pertemuan7.pdb
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\KasirBaru_Pertemuan7\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.csprojResolveAssemblyReference.cache
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\KasirBaru_Pertemuan7\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.MainForm.resources
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\KasirBaru_Pertemuan7\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.csproj.GenerateResource.Cache
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\KasirBaru_Pertemuan7\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.exe
+D:\Data Aplikasi\SharpDevelop (C#)\SharpDevelop Projects\KasirBaru_Pertemuan7\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.pdb
